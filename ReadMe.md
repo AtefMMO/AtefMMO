@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Dart, Flutter**
 
-💬 Ask me about **Dart, Flutter, Firebase, State Mangment... or anything [here](https://https://github.com/AtefMMO)**
+💬 Ask me about **Dart, Flutter, Firebase, State Mangment... or anything [here](https://github.com/AtefMMO)**
 
 
  </div>
