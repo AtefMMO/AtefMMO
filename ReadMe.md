@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Dart, Flutter**
 
-💬 Ask me about **Dart, Flutter, Firebase, State Mangment... or anything [here](https://www.linkedin.com/in/mohamed-atef-796a8b1b8/)**
+💬 Ask me about **Dart, Flutter, Firebase, State Mangement... or anything [here](https://www.linkedin.com/in/mohamed-atef-796a8b1b8/)**
 
 
  </div>
