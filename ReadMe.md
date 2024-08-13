@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Dart, Flutter**
 
-💬 Ask me about **Dart, Flutter, Firebase, State Mangement... or anything**
+💬 Ask me about **Flutter, PHP, MySql, Firebase ... or anything**
 
 
  </div>
