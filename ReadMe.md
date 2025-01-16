@@ -10,9 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
  
- 🌱 I’m currently learning **Dart, Flutter**
 
 💬 Ask me about **Flutter, PHP, MySql, Firebase ... or anything**
 
